@@ -1,0 +1,103 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h2 class="titulo">Crud Básico SQL - .Net - Angular - Bootstrap</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <h4>Agregar empleado</h4>
+                        <form class="mt-4" [formGroup]="form" (ngSubmit)="agregarEmpleado()">
+                            <div class="input-group mb-3">
+                                <span class="input-group-text">
+                                    <i class="fas fa-user" [class.green-icon]="this.form.get('nombre')?.valid" [class.red-icon]="this.form.get('nombre')?.invalid && this.form.get('nombre')?.touched"></i>
+                                </span>
+                                <input formControlName="nombre" type="text" class="form-control" placeholder="Nombre">
+                            </div>
+                            <div class="input-group mb-3">
+                                <span class="input-group-text">
+                                    <i class="fas fa-user" [class.green-icon]="this.form.get('apellido')?.valid" [class.red-icon]="this.form.get('apellido')?.invalid && this.form.get('apellido')?.touched"></i>
+                                </span>
+                                <input formControlName="apellido" type="text" class="form-control" placeholder="Apellido">
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-4">                            
+                                    <div class="input-group mb-3">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-sort-numeric-up-alt" [class.green-icon]="this.form.get('edad')?.valid" [class.red-icon]="this.form.get('edad')?.invalid && this.form.get('edad')?.touched"></i>
+                                    </span>
+                                    <input formControlName="edad" type="text" class="form-control" placeholder="Edad">
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">                            
+                                    <div class="input-group mb-3">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-id-badge" [class.green-icon]="this.form.get('cedula')?.valid" [class.red-icon]="this.form.get('cedula')?.invalid && this.form.get('cedula')?.touched"></i>
+                                    </span>
+                                    <input formControlName="cedula" type="text" class="form-control" placeholder="Cedula">
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">                            
+                                    <div class="input-group mb-3">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-map-marked-alt" [class.green-icon]="this.form.get('ciudad')?.valid" [class.red-icon]="this.form.get('ciudad')?.invalid && this.form.get('ciudad')?.touched"></i>
+                                    </span>
+                                    <select formControlName="ciudad" class="form-select" aria-label="Default select example">
+                                        <option selected>Ciudad</option>
+                                        <option value="1">Bogotá</option>
+                                        <option value="2">Ibague</option>
+                                        <option value="3">Medellín</option>
+                                    </select>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="d-grid gap-2">
+                                    <button [disabled]="this.form.invalid" class="btn btn-success" type="submit"><i class="fas fa-database"></i>&nbsp;Crear</button>
+                                </div>
+                            
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <h4>Lista empleado</h4>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead class="table-dark">
+                                    <tr>
+                                        <td>Nombre</td>
+                                        <td>Apellido</td>
+                                        <td>Edad</td>
+                                        <td>Cedula</td>
+                                        <td>Ciudad</td>
+                                        <td>Editar</td>
+                                        <td>Eliminar</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let empleado of listEmpleados">
+                                        <td>{{empleado.nombre}}</td>
+                                        <td>{{empleado.apellido}}</td>
+                                        <td>{{empleado.edad}}</td>                                    
+                                        <td>{{empleado.cedula}}</td>
+                                        <td>{{empleado.ciudad}}</td>
+                                        <td> <i class="far fa-edit text-info"></i> </td>
+                                        <td> <i class="far fa-trash-alt text-danger"></i> </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>               
+            </div>
+        </div>
+    </div>
+</div>
