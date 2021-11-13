@@ -1,0 +1,8 @@
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.deps.json
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.dll
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.pdb
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.AssemblyInfoInputs.cache
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.AssemblyInfo.cs
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csproj.CoreCompileInputs.cache
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.dll
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.pdb

@@ -1,0 +1,12 @@
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.DAL.deps.json
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.DAL.dll
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.DAL.pdb
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.Comun.dll
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.Comun.pdb
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csprojAssemblyReference.cache
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.AssemblyInfoInputs.cache
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.AssemblyInfo.cs
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csproj.CoreCompileInputs.cache
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csproj.CopyComplete
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.dll
+C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.pdb
