@@ -83,14 +83,14 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr *ngFor="let empleado of listEmpleados">
+                                    <tr *ngFor="let empleado of listEmpleados; let i = index">
                                         <td>{{empleado.nombre}}</td>
                                         <td>{{empleado.apellido}}</td>
                                         <td>{{empleado.edad}}</td>                                    
                                         <td>{{empleado.cedula}}</td>
                                         <td>{{empleado.ciudad}}</td>
                                         <td> <i class="far fa-edit text-info"></i> </td>
-                                        <td> <i class="far fa-trash-alt text-danger"></i> </td>
+                                        <td> <i (click)="eliminarEmpleado(i)" class="far fa-trash-alt text-danger"></i> </td>
                                     </tr>
                                 </tbody>
                             </table>
