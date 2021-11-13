@@ -495,11 +495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+      "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
       "projectName": "Intexus.PruebaTecnica.API",
-      "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+      "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
       "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\obj\\",
+      "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -520,11 +520,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj": {
-              "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj"
+            "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+              "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
             },
-            "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj": {
-              "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj"
+            "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
+              "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj"
             }
           }
         }

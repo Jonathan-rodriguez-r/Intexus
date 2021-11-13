@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rGBIkHoarPTNpfeVHqBmfLAQitma0pY8O324l+k4CRbe+nf/3FBtfWv9F5kASo0BqlU7ftwtiYLwHidCORg8og==",
+  "dgSpecHash": "19p19gqqClpzS25ThWWLp1Jzlz82Hk7JCCWaT6HJWhOPDy9dk07QjkHRCbAwR/K4JTclPd/NmJBXjCak1dFr+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+  "projectFilePath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\efrai\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\efrai\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

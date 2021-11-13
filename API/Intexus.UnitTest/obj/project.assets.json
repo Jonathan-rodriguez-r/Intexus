@@ -5739,11 +5739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
       "projectName": "Intexus.UnitTest",
-      "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
+      "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
       "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5764,8 +5764,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj": {
-              "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj"
+            "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+              "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
             }
           }
         }

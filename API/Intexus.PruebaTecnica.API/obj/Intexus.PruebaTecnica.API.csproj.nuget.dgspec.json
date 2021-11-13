@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj": {}
+    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj": {
+    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj",
+        "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
         "projectName": "Intexus.Comun",
-        "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj",
+        "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
         "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\obj\\",
+        "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj": {
+    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj",
         "projectName": "Intexus.DAL",
-        "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj",
+        "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj",
         "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\obj\\",
+        "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj": {
-                "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj"
+              "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+                "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj": {
+    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+        "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
         "projectName": "Intexus.PruebaTecnica.API",
-        "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+        "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
         "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API\\obj\\",
+        "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -158,11 +158,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj": {
-                "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.Comun\\Intexus.Comun.csproj"
+              "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+                "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
               },
-              "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj": {
-                "projectPath": "C:\\Users\\efrai\\source\\repos\\Intexus.PruebaTecnica.API\\Intexus.DAL\\Intexus.DAL.csproj"
+              "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
+                "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj"
               }
             }
           }

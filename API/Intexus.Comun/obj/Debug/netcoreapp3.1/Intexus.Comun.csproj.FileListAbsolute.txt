@@ -6,3 +6,12 @@ C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\ne
 C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csproj.CoreCompileInputs.cache
 C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.dll
 C:\Users\efrai\source\repos\Intexus.PruebaTecnica.API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.pdb
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.deps.json
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.dll
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.pdb
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csprojAssemblyReference.cache
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.AssemblyInfoInputs.cache
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.AssemblyInfo.cs
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csproj.CoreCompileInputs.cache
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.dll
+C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.pdb
