@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { ToastrModule, ToastrService } from 'ngx-toastr';
 
 @Component({
   selector: 'app-crud',
@@ -13,7 +14,7 @@ export class CrudComponent implements OnInit {
   ];
 
   form: FormGroup;
-  constructor(private fb: FormBuilder ) {
+  constructor(private fb: FormBuilder, private toastr: ToastrService ) {
     this.form = this.fb.group({
       nombre: ['', [Validators.required, Validators.minLength(3) ]],
       apellido: ['', [Validators.required, Validators.minLength(3) ]],
@@ -21,7 +22,7 @@ export class CrudComponent implements OnInit {
       cedula: ['',[Validators.required, Validators.maxLength(12), Validators.minLength(6)]],
       ciudad: ['', [Validators.required, Validators.maxLength(3)]]
     })
-   }
+  }
 agregarEmpleado() {
 console.log(this.form);
   const empleado: any = 
@@ -34,9 +35,19 @@ console.log(this.form);
   }
   
   this.listEmpleados.push(empleado);
+  const nombres= this.form.get('nombre')?.value +' '+ this.form.get('apellido')?.value
+  this.toastr.success('Empleado '+ nombres + ' creado!', '¡Exito!' );
   this.form.reset();
 }
-  ngOnInit(): void {
-  }
+  eliminarEmpleado(index: number)
+    {
+    console.log(index);
+    this.listEmpleados.splice(index, 1);
+    this.toastr.error('Empleado eliminado!', '¡Exito!' );
 
+    }
+  ngOnInit(): void {
+
+  }
+  
 }
