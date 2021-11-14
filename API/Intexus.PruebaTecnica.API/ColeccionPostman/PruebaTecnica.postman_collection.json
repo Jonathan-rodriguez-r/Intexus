@@ -1,0 +1,221 @@
+{
+	"info": {
+		"_postman_id": "9ae23d05-6810-4250-9899-41e6e6e81c16",
+		"name": "PruebaTecnicaYonathanRodriguez",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "InsertarAfiliado",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Nombre\": \"Yonathan Armando\",\r\n  \"Apellido\": \"Rodriguez Rodriguez\",\r\n  \"Sexo\": \"F\",\r\n  \"FechaNacimiento\": \"1987-11-11T00:00:00\",\r\n  \"Recaudo\": 1200000.0\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud/InsertarAfiliado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud",
+						"InsertarAfiliado"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InsertarAfiliadoPut",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Nombre\": \"Yonathan Armando\",\r\n  \"Apellido\": \"Rodriguez Rodriguez\",\r\n  \"Sexo\": \"F\",\r\n  \"FechaNacimiento\": \"1987-11-11T00:00:00\",\r\n  \"Recaudo\": 1200000.0\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud/InsertarAfiliadoPut",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud",
+						"InsertarAfiliadoPut"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ActualizarAfiliado",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Id\": 1,\r\n  \"Nombre\": \"Yonathan Armando modificado\",\r\n  \"Apellido\": \"Rodriguez Rodriguez modificado\",\r\n  \"Sexo\": \"M\",\r\n  \"FechaNacimiento\": \"1987-12-12T00:00:00\",\r\n  \"Recaudo\": 333333.0\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud/ActualizarAfiliado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud",
+						"ActualizarAfiliado"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ListarAfiliados",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud/ListarAfiliados",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud",
+						"ListarAfiliados"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ListarAfiliadosGet",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EliminarAfiliado",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "1",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud/EliminarAfiliado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud",
+						"EliminarAfiliado"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EliminarAfiliadoDelete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "3",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:52009/api/Crud/EliminarAfiliadoDelete",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "52009",
+					"path": [
+						"api",
+						"Crud",
+						"EliminarAfiliadoDelete"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -19,11 +19,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Utilitarios", "3.Utilitar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.PruebasUnitarias", "4.PruebasUnitarias", "{74AB75FC-EA30-4072-9FDA-EE033612F34B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.ColecionPostman", "5.ColecionPostman", "{033B5D4D-5F73-4BE1-BD0D-DC8891AB645E}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\..\Downloads\PruebaTecnica.postman_collection.json = ..\..\..\..\..\Downloads\PruebaTecnica.postman_collection.json
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
