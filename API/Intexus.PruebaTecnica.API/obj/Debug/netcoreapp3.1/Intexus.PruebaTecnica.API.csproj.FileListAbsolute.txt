@@ -60,3 +60,34 @@ C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.PruebaTecnica.
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.dll
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.pdb
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.genruntimeconfig.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\ColeccionPostman\PruebaTecnica.postman_collection.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.StaticWebAssets.xml
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.exe
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.deps.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.runtimeconfig.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.runtimeconfig.dev.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.Comun.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.DAL.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.Comun.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Intexus.DAL.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\staticwebassets\Intexus.PruebaTecnica.API.StaticWebAssets.Manifest.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.RazorTargetAssemblyInfo.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.genruntimeconfig.cache

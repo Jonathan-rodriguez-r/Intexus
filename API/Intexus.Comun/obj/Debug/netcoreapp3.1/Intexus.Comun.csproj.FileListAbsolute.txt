@@ -15,3 +15,13 @@ C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debu
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csproj.CoreCompileInputs.cache
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.dll
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.deps.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\bin\Debug\netcoreapp3.1\Intexus.Comun.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.Comun\obj\Debug\netcoreapp3.1\Intexus.Comun.pdb

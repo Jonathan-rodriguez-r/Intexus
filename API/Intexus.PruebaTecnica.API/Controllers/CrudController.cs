@@ -1,4 +1,4 @@
-﻿using Intexus.Comun.Api;
+using Intexus.Comun.Api;
 using Intexus.Comun.Entities;
 using Intexus.DAL.Afiliado;
 using Microsoft.AspNetCore.Mvc;
@@ -65,7 +65,7 @@ namespace Intexus.PruebaTecnica.API.Controllers
             {
                 DALCrudAfiliados dALCrudAfiliados = new DALCrudAfiliados(configuracion["ConexionSqlServer"]);
                 dALCrudAfiliados.ActualizarAfiliado(afiliado);
-                return new ApiResponse { Respuesta = ApiStatus.OK, Mensaje = "Afiliado creado correctamente." };
+                return new ApiResponse { Respuesta = ApiStatus.OK, Mensaje = "Afiliado actualizado correctamente." };
             }
             catch (Exception ex)
             {
@@ -82,7 +82,7 @@ namespace Intexus.PruebaTecnica.API.Controllers
             {
                 DALCrudAfiliados dALCrudAfiliados = new DALCrudAfiliados(configuracion["ConexionSqlServer"]);
                 dALCrudAfiliados.ActualizarAfiliado(afiliado);
-                return new ApiResponse { Respuesta = ApiStatus.OK, Mensaje = "Afiliado creado correctamente." };
+                return new ApiResponse { Respuesta = ApiStatus.OK, Mensaje = "Afiliado actualizado correctamente." };
             }
             catch (Exception ex)
             {

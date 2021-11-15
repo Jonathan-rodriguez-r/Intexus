@@ -22,3 +22,16 @@ C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.DAL\obj\Debug\
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csproj.CopyComplete
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.dll
 C:\Users\efrai\Source\Repos\Jonathan-rodriguez-r\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.DAL.deps.json
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.DAL.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.DAL.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.Comun.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\bin\Debug\netcoreapp3.1\Intexus.Comun.pdb
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csproj.AssemblyReference.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.csproj.CopyComplete
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.DAL\obj\Debug\netcoreapp3.1\Intexus.DAL.pdb

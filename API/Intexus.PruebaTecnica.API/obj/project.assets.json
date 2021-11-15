@@ -489,25 +489,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\efrai\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\jonat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+      "projectUniqueName": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
       "projectName": "Intexus.PruebaTecnica.API",
-      "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
-      "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.PruebaTecnica.API\\obj\\",
+      "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+      "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.PruebaTecnica.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\efrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -520,11 +515,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
-              "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
+            "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+              "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
             },
-            "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
-              "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj"
+            "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
+              "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj"
             }
           }
         }
@@ -548,6 +543,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.21, 3.1.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -556,7 +557,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

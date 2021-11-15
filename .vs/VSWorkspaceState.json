@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API",
+    "\\Empleado",
+    "\\src"
   ],
+  "SelectedNode": "\\API\\Intexus.PruebaTecnica.API.sln",
   "PreviewInSolutionExplorer": false
 }

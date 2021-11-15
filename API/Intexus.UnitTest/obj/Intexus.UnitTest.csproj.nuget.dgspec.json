@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj": {}
+    "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+    "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
+        "projectUniqueName": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
         "projectName": "Intexus.Comun",
-        "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
-        "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\obj\\",
+        "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\efrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -58,26 +54,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj": {
+    "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
+        "projectUniqueName": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
         "projectName": "Intexus.UnitTest",
-        "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\efrai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.UnitTest\\obj\\",
+        "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.UnitTest\\Intexus.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\efrai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -90,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
-                "projectPath": "C:\\Users\\efrai\\Source\\Repos\\Jonathan-rodriguez-r\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
+              "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+                "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
               }
             }
           }
@@ -138,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
