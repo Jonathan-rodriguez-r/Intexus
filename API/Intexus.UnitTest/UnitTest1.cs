@@ -15,8 +15,8 @@ namespace Intexus.UnitTest
                 Id = 1,
                 Nombre = "Yonathan Armando",
                 Apellido = "Rodriguez Rodriguez",
-                Sexo = "F",
-                FechaNacimiento = new DateTime(1987, 11, 11),
+                Sexo = "M",
+                FechaNacimiento = new DateTime(1988, 10, 24),
                 Recaudo = 1200000
             };
             string json = Newtonsoft.Json.JsonConvert.SerializeObject(afiliado);
