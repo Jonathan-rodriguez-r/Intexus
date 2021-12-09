@@ -91,3 +91,5 @@ D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\net
 D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.dll
 D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.pdb
 D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\obj\Debug\netcoreapp3.1\Intexus.PruebaTecnica.API.genruntimeconfig.cache
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Proyectos Desarrollo\Intexus\CRUD\API\Intexus.PruebaTecnica.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll

@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\API",
+    "\\API\\Intexus.PruebaTecnica.API",
+    "\\API\\Intexus.PruebaTecnica.API\\Controllers",
+    "\\BD",
     "\\Empleado",
     "\\src"
   ],
-  "SelectedNode": "\\API\\Intexus.PruebaTecnica.API.sln",
+  "SelectedNode": "\\API\\Intexus.PruebaTecnica.API\\Controllers\\CrudController.cs",
   "PreviewInSolutionExplorer": false
 }
