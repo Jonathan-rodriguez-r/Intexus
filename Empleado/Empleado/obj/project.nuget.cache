@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mPmdDmU8oNoLvNsZjTscTnIfJseaEMLqoKKo0h8nUbuBCRyqpAOmZojNajeo2BgURLthGa/ltPBiw3Van8MsSg==",
+  "dgSpecHash": "uFnycWH0rvVzLMqZI9Q5PWCfwLxvMtgRRCKBbNm7TTdBOSnH7d7yxxMSjwwpneto2Q1xHu2WzwEg//H0JkaW0g==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\Empleado\\Empleado\\Empleado.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\Empleado\\Empleado\\Empleado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.0\\microsoft.data.sqlclient.2.0.0.nupkg.sha512",

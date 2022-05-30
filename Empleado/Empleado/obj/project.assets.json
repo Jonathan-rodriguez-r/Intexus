@@ -5870,11 +5870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\Empleado\\Empleado\\Empleado.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\Empleado\\Empleado\\Empleado.csproj",
       "projectName": "Empleado",
-      "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\Empleado\\Empleado\\Empleado.csproj",
+      "projectPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\Empleado\\Empleado\\Empleado.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\Empleado\\Empleado\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\Empleado\\Empleado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
