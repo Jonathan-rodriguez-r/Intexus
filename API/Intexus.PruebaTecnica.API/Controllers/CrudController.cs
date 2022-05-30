@@ -46,7 +46,9 @@ namespace Intexus.PruebaTecnica.API.Controllers
         {
             try
             {
-                DALCrudAfiliados dALCrudAfiliados = new DALCrudAfiliados(configuracion["ConexionSqlServer"]);
+        //Comentario prueba
+
+        DALCrudAfiliados dALCrudAfiliados = new DALCrudAfiliados(configuracion["ConexionSqlServer"]);
                 dALCrudAfiliados.InsertarAfiliado(afiliado);
                 return new ApiResponse { Respuesta = ApiStatus.OK, Mensaje = "Afiliado creado correctamente." };
             }
@@ -63,7 +65,9 @@ namespace Intexus.PruebaTecnica.API.Controllers
         {
             try
             {
-                DALCrudAfiliados dALCrudAfiliados = new DALCrudAfiliados(configuracion["ConexionSqlServer"]);
+        //Comentario prueba
+
+        DALCrudAfiliados dALCrudAfiliados = new DALCrudAfiliados(configuracion["ConexionSqlServer"]);
                 dALCrudAfiliados.ActualizarAfiliado(afiliado);
                 return new ApiResponse { Respuesta = ApiStatus.OK, Mensaje = "Afiliado actualizado correctamente." };
             }

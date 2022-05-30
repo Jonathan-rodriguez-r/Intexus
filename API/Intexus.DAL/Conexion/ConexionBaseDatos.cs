@@ -71,8 +71,9 @@ namespace Intexus.DAL.Conexion
                 throw ex;
             }
         }
+    //Comentario prueba
 
-        private SqlDbType ConvertirDato(TipoDato tipoDato)
+    private SqlDbType ConvertirDato(TipoDato tipoDato)
         {
             switch (tipoDato)
             {
