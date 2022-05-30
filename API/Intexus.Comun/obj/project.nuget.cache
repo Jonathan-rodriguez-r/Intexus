@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9X17ePZptD7B3NouoVA10qVEXkyDJgM3ekwYGZSOLHibN8jv6LCIG50JAV/wPjd/h0tO+62RbrtqdWbSnakCiQ==",
+  "dgSpecHash": "BkvP7+X7lmRET9iwKNRyp1fbQG6z1gH23AfXSgFAjwwikkGs4ygXCm/GxDu7JRrx/RSad254U4wPXAMERhW8GQ==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.Comun\\Intexus.Comun.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

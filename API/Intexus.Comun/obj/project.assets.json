@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.Comun\\Intexus.Comun.csproj",
       "projectName": "Intexus.Comun",
-      "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj",
+      "projectPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.Comun\\Intexus.Comun.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.Comun\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",

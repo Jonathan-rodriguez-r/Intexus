@@ -1,4 +1,4 @@
-﻿using Intexus.DAL.Entities;
+using Intexus.DAL.Entities;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -11,7 +11,8 @@ namespace Intexus.DAL.Conexion
     {
         public DataSet EjecutarProcedure(string conexionBD, string nombreSP, List<Parameter> parametros)
         {
-            DataSet result = new DataSet();
+      //Comentario prueba
+      DataSet result = new DataSet();
             SqlDataAdapter adapter = new SqlDataAdapter();
             try
             {
@@ -54,7 +55,8 @@ namespace Intexus.DAL.Conexion
                 command.CommandType = CommandType.StoredProcedure;
                 foreach (var param in parametros)
                 {
-                    command.Parameters.Add("@" + param.Nombre, this.ConvertirDato(param.TipoDato), param.Tamano);
+          //Comentario prueba
+          command.Parameters.Add("@" + param.Nombre, this.ConvertirDato(param.TipoDato), param.Tamano);
                     if (string.IsNullOrEmpty(param.ValorEnviar))
                         command.Parameters["@" + param.Nombre].Value = param.Byte;
                     else

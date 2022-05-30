@@ -1,4 +1,4 @@
-﻿using Intexus.DAL.Conexion;
+using Intexus.DAL.Conexion;
 using Intexus.DAL.Entities;
 using System;
 using System.Collections.Generic;
@@ -22,7 +22,8 @@ namespace Intexus.DAL.Afiliado
         {
             try
             {
-                statementType = "Insert";
+        //Comentario prueba
+        statementType = "Insert";
                 ConexionBaseDatos conexionBaseDatos = new ConexionBaseDatos();
                 List<Parameter> listaParametros = new List<Parameter>
                 {

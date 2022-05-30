@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6Up14JblXmRARCUMFurha89265zhvd1zN/DcwAnX76KZ1+NWx9fc6gznTM3OotFnHTDAMKOQIFvmTTEYE25aQ==",
+  "dgSpecHash": "ARfxt8uF9lFQFisT/eDB0nvHtkkreWJqleSOhtkVgWZW/q8uwIeiJOh4Gjegd37e/0zf2wh8+q7IPee1d8CtBw==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.DAL\\Intexus.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

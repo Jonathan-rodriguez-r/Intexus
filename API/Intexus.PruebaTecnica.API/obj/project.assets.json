@@ -494,11 +494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
       "projectName": "Intexus.PruebaTecnica.API",
-      "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
+      "projectPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.PruebaTecnica.API\\Intexus.PruebaTecnica.API.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.PruebaTecnica.API\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.PruebaTecnica.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -515,11 +515,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
-              "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.Comun\\Intexus.Comun.csproj"
+            "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.Comun\\Intexus.Comun.csproj": {
+              "projectPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.Comun\\Intexus.Comun.csproj"
             },
-            "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
-              "projectPath": "D:\\Proyectos Desarrollo\\Intexus\\CRUD\\API\\Intexus.DAL\\Intexus.DAL.csproj"
+            "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.DAL\\Intexus.DAL.csproj": {
+              "projectPath": "C:\\Users\\jonat\\Source\\Repos\\proyectoSoftwareICBF\\API\\Intexus.DAL\\Intexus.DAL.csproj"
             }
           }
         }
